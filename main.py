@@ -1,1 +1,2 @@
-print(1)
+my_name = "Marianna Bolotenuk"
+print (my_name)
